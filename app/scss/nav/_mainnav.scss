@@ -1,0 +1,29 @@
+.main-nav{
+    display: table;
+    width: 100%;
+    font-size: 0;
+    height: 40px;
+    .main-nav-wrap{
+        background-color: $color_main;
+        display: table;
+        width: 100%;
+        font-size: 0;
+        padding: 0 10px;
+        width: $width_pc;
+        li{
+            display: inline-block;
+            a{
+                display: block;
+                height: 40px;
+                line-height: 40px;
+                color: #fff;
+                text-transform: capitalize;
+                padding: 0 5px;
+                font-size: 12px;
+                span{
+                    color: #fff;
+                }
+            }
+        }
+    }
+}

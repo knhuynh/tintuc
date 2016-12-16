@@ -1,0 +1,10 @@
+.footer{
+    border-top: 1px solid #eee;
+    .footer-wrap{
+        .copyright{
+            padding: 10px;
+            text-align: center;
+            color: $color_main;
+        }
+    }
+}

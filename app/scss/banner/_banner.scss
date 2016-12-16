@@ -1,0 +1,25 @@
+.banner{
+    display: table;
+    width: 100%;
+    font-size: 0;
+    margin: 2px 0 0 0;
+    .banner-wrap{
+        display: table;
+        width: 100%;
+        font-size: 0;
+    }
+    #logo{
+        display: inline-block;
+        width: 234px;
+        height: 63px;
+        text-indent: -99999px;
+        vertical-align: middle;
+        background-size: 100%;
+    }
+    .baner-ads{
+        display: inline-block;
+        vertical-align: middle;
+        width: 728px;
+        margin-left: 18px;
+    }
+}

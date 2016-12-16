@@ -1,0 +1,38 @@
+.top-event{
+    display: table;
+    width: 100%;
+    font-size: 0px;
+    padding: 6px 0;
+    .top-event-wrap{
+        position: relative;
+        display: table;
+        width: 100%;
+        font-size: 0px;
+        li{
+            display: inline-block;
+            a{
+                display: block;
+                padding: 6px 12px;
+                font-weight: bold;
+                text-transform: capitalize;
+            }
+            a.top-event-label{
+                background-color: #000;
+                color: #fff;
+            }
+            a.top-event-more{
+                position: absolute;
+                right: 0;
+                top: 4px;
+                span{
+                    color: #777;
+                }
+            }
+            &:after{
+                content: '';
+                display: block;
+                clear: both;
+            }
+        }
+    }
+}
