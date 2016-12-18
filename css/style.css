@@ -116,14 +116,14 @@
 						margin-top: 19px;
 						border-bottom: 2px solid #D52025;
 					}
-				.news-latest-left .news-item {
+				.news-item {
 					padding-bottom: 125px;
 					margin-bottom: 15px;
 					border-bottom: 1px solid #ccc;
 					overflow: hidden;
 					height: 112px;
 				}
-					.news-latest-left .news-item .n-img {
+					.news-item .n-img {
 						float: left;
 						width: 168px;
 						height: 112px;
@@ -259,9 +259,51 @@
 							.block-read-more .news-2 a {
 								text-align: left !important;
 							}
+					.title-24hours {
+						width: 160px;
+						color: #333;
+						font-weight: bold;
+						font-size: 18px;
+						background-color: #ddd;
+						line-height: 35px;
+						padding-left: 10px;
+						float: left;
+						border-bottom: 1px solid #ddd;
+					}
+					.title-24hours2 {
+						width: 505px;
+						line-height: 35px;
+						padding-left: 10px;
+						float: left;
+						border-bottom: 1px solid #ddd;
+						border-right: 1px solid #ddd;
+					}
+						.title-24hours2 a {
+							font-size: 14px;
+							margin-right: 10px;
+						}
+				.block-24hours {
+					text-align: left;
+				}
+					.block-24hours ul li {
+						line-height: 30px;
+						padding-left: 10px;
+
+					}
+						.block-24hours ul li a {
+							font-size: 14px;
+							line-height: 30px;
+							display: block;
+						}
+						.block-24hours ul li a:hover {
+							background-color: #ddd;
+						}
 				.content-left .content-detail-right {
 					width: 490px;
 					float: left;
+				}
+				.content-detail-right-24hours {
+					padding-top: 10px;
 				}
 					.content-detail-right .content-detail-description {
 						font-weight: bold;
