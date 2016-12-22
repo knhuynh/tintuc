@@ -347,6 +347,17 @@
 					.content-contact a:hover {
 						text-decoration: underline;
 					}
+		.event-years {
+			margin: 0px;
+			padding: 0px;
+		}
+			.event-years li {
+				display: inline-block;
+				line-height: 50px;
+				width: 32.8%;
+				margin: 0px;
+				padding: 0px;
+			}
 	.content-right {
 		width: 300px;
 		float: left;
