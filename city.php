@@ -15,10 +15,11 @@
         ?>
             <div class="wraper">
                 <div class="content-left">
+                    <div class="city-name">Trà Vinh</div>
                     <div class="news-latest news-latest2">
                         <div>
                             <div class="title-24hours">
-                                Tin tức 24h
+                                Tin địa phương
                             </div>
                             <div class="title-24hours2">
                                 <a>Tin tức 24h</a>
@@ -30,14 +31,8 @@
                         </div>
                         <div class="content-detail-left">
                             <div class="block-24hours">
-                                <div class="b-24hours-title">Kênh tin</div>
-                                <ul>
-                                   <li><a>Xã hội</a></li>
-                                   <li><a>Pháp luật</a></li>
-                                   <li><a>Thế giới</a></li>
-                                   <li><a>Giải trí</a></li>
-                                   <li><a>Kinh doanh</a></li>
-                                </ul>
+                                <div class="b-24hours-title">Trà Vinh</div>
+                                
                                 <div class="block-event-24hours">Sự kiện</div>
                                 <ul>
                                    <li><a>Xã hội</a></li>

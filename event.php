@@ -10,27 +10,160 @@
         <?php
             require '_include/topnav.php';
             require '_include/banner.php';
-            // require '_include/mainnav.php';
+            require '_include/mainnav.php';
             // require '_include/topevent2.php';
         ?>
             <div class="wraper">
                 <div style="border-top: 3px solid #d52025"></div>
                 <div class="content-left">
                     <div class="news-path">
-                        <a>Trang chủ</a> / <a>Xã hội</a> / Cháy nhà ở sài gòn, 6 người tử vong...
+                        <a>Trang chủ</a> / Sự kiện
                     </div>
-                    <ul class="event-years">
-                        <li><a>2015</a></li>
-                        <li><a>2016</a></li>
-                        <li><a>2017</a></li>
+                    <div class="spanner-top"></div>
+                    <div class="event-year1"><a>2016</a></div>
+                    <div class="event-year2"><a>Sự kiện năm 2017</a></div>
+                    <div class="event-year3"><a>2016</a></div>
+                    <ul class="event-months">
+                    	<li>THÁNG <br><span>1</span></li>
+                    	<li>THÁNG <br><span>2</span></li>
+                    	<li>THÁNG <br><span>3</span></li>
+                    	<li>THÁNG <br><span>4</span></li>
+                    	<li>THÁNG <br><span>5</span></li>
+                    	<li>THÁNG <br><span>6</span></li>
+                    	<li>THÁNG <br><span>7</span></li>
+                    	<li>THÁNG <br><span>8</span></li>
+                    	<li>THÁNG <br><span>9</span></li>
+                    	<li>THÁNG <br><span>10</span></li>
+                    	<li>THÁNG <br><span>11</span></li>
+                    	<li>THÁNG <br><span>12</span></li>
                     </ul>
+                    <div class="block-event">
+                    	<div class="block-event-left">
+                    		<div class="event-time"><span>28</span><br>07/2016</div>
+                    	</div>
+                    	<div class="block-event-right">
+                    		<div class="event-point"></div>
+                    		<div class="event-post">
+                    			<div class="event-group-post-title"><a>Ký sự Syria của VTV24 'dậy sóng'</a><span>5 bài</span></div>
+                    			<div class="event-post-poster"><a><img src="http://media.tintuc.vn/uploads/medias/2016/08/21/680x365_crop/1-bb-baaabBF4ia.jpg" class="img-responsive"></a></div>
+                    			<div class="event-post-title-1"><a>Danh sách 64 trường đại học xét tuyển nguyện vọng 2 năm 2016</a></div>
+                    			<div class="event-post-description">Hơn 60 trường đại học đã công bố xét tuyển nguyện vọng 2 năm 2016.</div>
+                    			<div class="event-relate">
+                    				<div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                    				<div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                                    <div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                    			</div>
+                    		</div>
+                    	</div>
+                    </div>
+                    <div class="block-event">
+                    	<div class="block-event-left">
+                    		<div class="event-time"><span>28</span><br>07/2016</div>
+                    	</div>
+                    	<div class="block-event-right">
+                    		<div class="event-point"></div>
+                    		<div class="event-post">
+                    			<div class="event-group-post-title"><a>Ký sự Syria của VTV24 'dậy sóng'</a><span>5 bài</span></div>
+                    			<div class="event-post-poster"><a><img src="http://media.tintuc.vn/uploads/medias/2016/07/29/680x365_crop/20160729145213-1jpg-bb-baaacwmRFm.jpg" class="img-responsive"></a></div>
+                                <div class="event-post-title-1"><a>Danh sách 64 trường đại học xét tuyển nguyện vọng 2 năm 2016</a></div>
+                                <div class="event-post-description">Hơn 60 trường đại học đã công bố xét tuyển nguyện vọng 2 năm 2016.</div>
+                                <div class="event-relate">
+                                    <div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                                    <div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                                    <div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                                </div>
+                    		</div>
+                    	</div>
+                    </div>
+                    <div class="block-event">
+                    	<div class="block-event-left">
+                    		<div class="event-time"><span>28</span><br>07/2016</div>
+                    	</div>
+                    	<div class="block-event-right">
+                    		<div class="event-point"></div>
+                    		<div class="event-post">
+                    			<div class="event-group-post-title"><a>Ký sự Syria của VTV24 'dậy sóng'</a><span>5 bài</span></div>
+                    			<div class="event-post-poster"><a><img src="http://media.tintuc.vn/uploads/medias/2016/01/28/680x365_crop/nguoi-dan-o-huyen-quang-trach-tinh-quang-binh-hi-huc-dua-con-trau-chet-ret-ra-khoi-nui-bb-baaadSpwwI.jpg" class="img-responsive"></a></div>
+                                <div class="event-post-title-1"><a>Danh sách 64 trường đại học xét tuyển nguyện vọng 2 năm 2016</a></div>
+                                <div class="event-post-description">Hơn 60 trường đại học đã công bố xét tuyển nguyện vọng 2 năm 2016.</div>
+                                <div class="event-relate">
+                                    <div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                                    <div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                                    <div class="event-relate-post">
+                                        <a>
+                                            <img src="http://media.tintuc.vn/uploads/medias/2016/08/21/150x100_crop/diem-chuan-1-bb-baaacvh4gA.JPG">
+                                            <div class="event-relate-title">
+                                                Các trường ĐH lớn ồ ạt hạ điểm chuẩn, tuyển hàng nghìn chỉ tiêu bổ sung
+                                            </div>
+                                        </a>            
+                                    </div>
+                                </div>
+                    		</div>
+                    	</div>
+                    </div>
                 </div> <!-- content-left -->
                 <div class="content-right">
                     <div class="ads-300-250">
                         <img src="http://bcadz.com/wp-content/uploads/2015/09/300x250.jpg" />
                     </div>
                     <div class="ads-300-250">
-                        <img src="http://www2.jersey.com/business/PublishingImages/marketing/google/300-x-250-An-Hour-Away.jpg" />
+                        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c6045029616371.56055e7f31ef8.gif" />
                     </div>
                     <div class="archire-skin-sibar">
                         <p class="caption-skin1"><span>Fanpage</span></p>
